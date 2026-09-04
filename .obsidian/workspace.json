@@ -11,10 +11,14 @@
             "id": "849c138cdac05c9a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Echoes of Velandria Music - Brand Hub.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Echoes of Velandria Music - Brand Hub"
             }
           }
         ]
@@ -197,11 +201,13 @@
   },
   "active": "849c138cdac05c9a",
   "lastOpenFiles": [
+    "Brands Dashboard.md",
     "HQ Dashboard.md",
     "🏠 Creator Studio OS.md",
+    "Echoes of Velandria Music - Brand Hub.md",
+    "Kim Immina Le - Brand Hub.md",
     "Content Database.md",
     "Script Template.md",
-    "Kim Immina Le - Brand Hub.md",
     "Video Template.md",
     "Content Factory.md",
     "CEO Dashboard.md",
@@ -220,8 +226,6 @@
     "Deleted Content Log.md",
     "Expired Campaigns.md",
     "Old Projects.md",
-    "Archive Dashboard.md",
-    "Thumbnails.md",
-    "Voiceovers.md"
+    "Archive Dashboard.md"
   ]
 }
