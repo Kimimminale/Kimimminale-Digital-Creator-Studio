@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Old Projects.md",
+                "file": "TikTok Analytics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Old Projects"
+              "title": "TikTok Analytics"
             }
           }
         ]
@@ -202,6 +202,8 @@
   "active": "849c138cdac05c9a",
   "lastOpenFiles": [
     "HQ Dashboard.md",
+    "Expired Campaigns.md",
+    "Old Projects.md",
     "🏠 Creator Studio OS.md",
     "CEO Dashboard.md",
     "Kim Immina Le - Brand Hub.md",
@@ -224,8 +226,6 @@
     "Brand Growth Tracker.md",
     "Brand Relationship Map.md",
     "Deleted Content Log.md",
-    "Expired Campaigns.md",
-    "Old Projects.md",
     "Archive Dashboard.md"
   ]
 }
