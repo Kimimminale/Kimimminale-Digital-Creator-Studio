@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TikTok Analytics.md",
+                "file": "HQ Dashboard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TikTok Analytics"
+              "title": "HQ Dashboard"
             }
           }
         ]
@@ -201,10 +201,11 @@
   },
   "active": "849c138cdac05c9a",
   "lastOpenFiles": [
+    "🏠 Creator Studio OS.md",
     "HQ Dashboard.md",
+    "TikTok Analytics.md",
     "Expired Campaigns.md",
     "Old Projects.md",
-    "🏠 Creator Studio OS.md",
     "CEO Dashboard.md",
     "Kim Immina Le - Brand Hub.md",
     "Content Factory.md",
@@ -225,7 +226,6 @@
     "Goals Dashboard.md",
     "Brand Growth Tracker.md",
     "Brand Relationship Map.md",
-    "Deleted Content Log.md",
-    "Archive Dashboard.md"
+    "Deleted Content Log.md"
   ]
 }
