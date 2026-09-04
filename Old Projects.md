@@ -3,10 +3,10 @@
 ## Completed Projects
 
 | Project | Brand | Date | Result |
-|----------|----------|----------|----------|
-| | | | |
-| | | | |
-| | | | |
+| ------- | ----- | ---- | ------ |
+|         |       |      |        |
+|         |       |      |        |
+|         |       |      |        |
 
 ---
 
@@ -26,9 +26,10 @@
 
 -
 
--
 
--
+-https://youtu.be/-h2amYHOt78?si=WverOkotaGHMkhbj
+
+- https://youtu.be/LyHOpcCjlKw?si=ZKCbmjl33bPbfh-6
 
 ---
 
