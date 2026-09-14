@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="VideoFlow — lập lịch xuất bản video đa nền tảng." />
+    <title>VideoFlow — Xuất bản đa nền tảng</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="shell">
+      <aside class="sidebar">
+        <a class="brand" href="#top" aria-label="VideoFlow trang chủ"><span class="brand-mark">V</span><span>videoflow</span></a>
+        <nav aria-label="Điều hướng chính">
+          <a class="nav-item active" href="#top"><span>▦</span> Tổng quan</a>
+          <a class="nav-item" href="#create"><span>⊞</span> Tạo chiến dịch</a>
+          <a class="nav-item" href="#schedule"><span>◷</span> Lịch đăng</a>
+          <a class="nav-item" href="#library"><span>▣</span> Thư viện video</a>
+          <a class="nav-item" href="#analytics"><span>↗</span> Hiệu suất</a>
+        </nav>
+        <div class="sidebar-bottom">
+          <a class="nav-item" href="#settings"><span>⚙</span> Cài đặt</a>
+          <div class="profile"><div class="avatar">KI</div><div><strong>Kim Immina</strong><small>Creator Pro</small></div><span class="more">•••</span></div>
+        </div>
+      </aside>
+
+      <main id="top">
+        <header class="topbar"><button class="mobile-menu" aria-label="Mở menu">☰</button><div class="welcome"><p>Thứ Hai, 14 tháng 9</p><h1>Chào buổi sáng, Kim <span>✦</span></h1></div><div class="top-actions"><button class="icon-button" aria-label="Thông báo">♧<i></i></button><button class="help">?</button><button class="create-button" data-scroll="#create">+ Tạo chiến dịch</button></div></header>
+
+        <section class="hero" aria-labelledby="hero-title">
+          <div class="hero-copy"><p class="eyebrow">VIDEOFLOW STUDIO</p><h2 id="hero-title">Một video. Mọi nền tảng.<br /><em>Đúng thời điểm.</em></h2><p>Đưa những video đã hoàn thiện đến đúng khán giả, chỉ với một lịch đăng thông minh.</p><button class="light-button" data-scroll="#create">Đăng video mới <span>→</span></button></div>
+          <div class="hero-art" aria-hidden="true"><div class="sun"></div><div class="arch arch-back"></div><div class="arch arch-front"></div><div class="video-card"><span class="play">▶</span><span>01:24</span></div><div class="sparkle one">✦</div><div class="sparkle two">✦</div></div>
+        </section>
+
+        <section class="stats" aria-label="Chỉ số xuất bản"><article><span>ĐÃ LÊN LỊCH</span><strong>12 <small>video</small></strong><p><b>↑ 3</b> so với tuần trước</p></article><article><span>ĐÃ XUẤT BẢN</span><strong>38 <small>video</small></strong><p><b>↑ 18%</b> trong 30 ngày</p></article><article><span>TỔNG LƯỢT XEM</span><strong>284.6K</strong><p><b>↑ 24.5%</b> trong 30 ngày</p></article><article><span>TỶ LỆ HOÀN THÀNH</span><strong>94.2%</strong><p><b>↑ 2.1%</b> so với tháng trước</p></article></section>
+
+        <section class="content-grid" id="schedule"><div class="section-head"><div><p class="eyebrow">LỊCH XUẤT BẢN</p><h2>Sắp diễn ra</h2></div><button class="text-link">Xem lịch đầy đủ <span>→</span></button></div><div class="schedule-list"><article class="schedule-item"><time><b>16</b><span>THÁNG 9</span></time><div class="thumb thumb-one"><span>▶</span></div><div class="schedule-info"><h3>5 thói quen giúp bạn làm việc sâu hơn</h3><p>Thứ Ba, 09:00 · Video ngắn</p><div class="platforms"><span class="youtube">▶</span><span class="tiktok">♪</span><span class="instagram">◎</span><span class="facebook">f</span></div></div><span class="status scheduled">Đã lên lịch</span><button class="dots" aria-label="Tuỳ chọn">•••</button></article><article class="schedule-item"><time><b>18</b><span>THÁNG 9</span></time><div class="thumb thumb-two"><span>▶</span></div><div class="schedule-info"><h3>Behind the scenes: một ngày quay phim</h3><p>Thứ Năm, 18:30 · Video dài</p><div class="platforms"><span class="youtube">▶</span><span class="facebook">f</span><span class="x">𝕏</span></div></div><span class="status draft">Bản nháp</span><button class="dots" aria-label="Tuỳ chọn">•••</button></article></div></section>
+
+        <section class="publish-section" id="create"><div class="section-head"><div><p class="eyebrow">XUẤT BẢN NHANH</p><h2>Tạo chiến dịch mới</h2></div><p class="hint">Chọn video và nền tảng bạn muốn phân phối.</p></div><div class="composer"><label class="upload-area" for="video-input"><input id="video-input" type="file" accept="video/*" /><span class="upload-icon">↑</span><strong>Kéo thả video vào đây</strong><small>hoặc <u>chọn tệp từ máy tính</u> · MP4, MOV tối đa 2GB</small><span class="file-name" id="file-name"></span></label><div class="composer-form"><label>Tiêu đề video<input id="video-title" value="Chia sẻ mới từ Kim Immina" /></label><label>Thời gian đăng<select id="publish-time"><option value="now">Đăng ngay sau khi hoàn tất</option><option value="schedule">Lên lịch vào thời điểm tốt nhất</option></select></label><fieldset><legend>Đăng lên</legend><div class="network-picker"><button class="network selected" data-network="YouTube"><span class="youtube">▶</span>YouTube</button><button class="network selected" data-network="TikTok"><span class="tiktok">♪</span>TikTok</button><button class="network selected" data-network="Instagram"><span class="instagram">◎</span>Instagram</button><button class="network" data-network="Facebook"><span class="facebook">f</span>Facebook</button><button class="network" data-network="Threads"><span class="threads">@</span>Threads</button><button class="network" data-network="X"><span class="x">𝕏</span>X</button></div></fieldset><button class="publish-button" id="publish-button">Lên lịch xuất bản <span>→</span></button><p class="form-note" id="form-note">Kết nối tài khoản mạng xã hội trong phần Cài đặt để tự động đăng.</p></div></div></section>
+
+        <section class="performance" id="analytics"><div class="section-head"><div><p class="eyebrow">HIỆU SUẤT</p><h2>Nền tảng hoạt động tốt nhất</h2></div><button class="period">30 ngày gần đây⌄</button></div><div class="platform-cards"><article><span class="platform-icon youtube">▶</span><div><h3>YouTube</h3><p>142.8K lượt xem</p></div><strong>+28.4%</strong></article><article><span class="platform-icon tiktok">♪</span><div><h3>TikTok</h3><p>89.4K lượt xem</p></div><strong>+41.2%</strong></article><article><span class="platform-icon instagram">◎</span><div><h3>Instagram</h3><p>37.2K lượt xem</p></div><strong>+12.8%</strong></article></div></section>
+      </main>
+    </div>
+    <div class="toast" role="status" aria-live="polite" id="toast"></div>
+    <script src="app.js"></script>
+  </body>
+</html>
