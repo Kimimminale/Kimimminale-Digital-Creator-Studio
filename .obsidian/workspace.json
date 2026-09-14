@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "763daeddc859d606",
+        "id": "630d8e554ae4d465",
         "type": "tabs",
         "children": [
           {
-            "id": "6fb29300667a6096",
+            "id": "a059272d9f0fb860",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -153,7 +153,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-archive",
-              "title": "Tất cả thuộc tính"
+              "title": "All properties"
             }
           },
           {
@@ -162,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "© Kimimminale Digital Creator Studio.md",
+                "file": "2026-09-14.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Đề cương"
+              "title": "Outline"
             }
           },
           {
@@ -182,7 +182,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -200,17 +200,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6fb29300667a6096",
+  "active": "a059272d9f0fb860",
   "lastOpenFiles": [
+    "🏠 Creator Studio OS.md",
+    "2026-09-14.md",
     "Untitled 1.canvas",
     "Brands Dashboard.md",
     "Kim Immina Le - Content Pillars.md",
     "Kim Immina Le - Brand Hub.md",
     "HQ Dashboard.md",
-    "🏠 Creator Studio OS.md",
     "Untitled 2.base",
     "Untitled.canvas",
-    "2026-09-14.md",
     "Logos.md",
     "styles.css",
     "index.html",
