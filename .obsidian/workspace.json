@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "41499d36b609d052",
+        "id": "763daeddc859d606",
         "type": "tabs",
         "children": [
           {
-            "id": "849c138cdac05c9a",
+            "id": "6fb29300667a6096",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "2026-09-14.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-09-14"
             }
           }
         ]
@@ -196,21 +200,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f40fbf17994b311e",
+  "active": "6fb29300667a6096",
   "lastOpenFiles": [
+    "Untitled 1.canvas",
+    "Brands Dashboard.md",
+    "Kim Immina Le - Content Pillars.md",
+    "Kim Immina Le - Brand Hub.md",
+    "HQ Dashboard.md",
+    "🏠 Creator Studio OS.md",
+    "Untitled 2.base",
+    "Untitled.canvas",
+    "2026-09-14.md",
     "Logos.md",
+    "styles.css",
+    "index.html",
+    "app.js",
     "Untitled 1.base",
     "Untitled.base",
-    "🏠 Creator Studio OS.md",
-    "HQ Dashboard.md",
     "TikTok Analytics.md",
     "Expired Campaigns.md",
     "Old Projects.md",
     "CEO Dashboard.md",
-    "Kim Immina Le - Brand Hub.md",
     "Content Factory.md",
     "Ideas Inbox.md",
-    "Brands Dashboard.md",
     "Production Board.md",
     "Content Flywheel.md",
     "Echoes of Velandria Music - Brand Hub.md",
@@ -222,9 +234,6 @@
     "Research Hub.md",
     "Idea Vault.md",
     "Meeting Notes.md",
-    "Decision Log.md",
-    "Goals Dashboard.md",
-    "Brand Growth Tracker.md",
-    "Brand Relationship Map.md"
+    "Decision Log.md"
   ]
 }
